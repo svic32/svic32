@@ -1,16 +1,36 @@
-## Hi there 👋
+## 🔹 Junior Cybersecurity Analyst
 
-<!--
-**svic32/svic32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Samantha Victor]  
+**Junior Cybersecurity Analyst | Future Security Professional**  
 
-Here are some ideas to get you started:
+📌 **About Me:**  
+I am actively training to become a **Cybersecurity Analyst**, developing expertise in risk management, incident response, 
+and security operations. My goal is to analyze threats and implement security measures to protect organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Skills & Learning Path:**  
+- Security Operations & Threat Intelligence  
+- Security Frameworks: NIST, CIS Controls, ISO 27001  
+- Incident Response & Risk Management  
+- Hands-on Labs: SIEM, Threat Hunting, Log Analysis  
+
+📂 **Projects & Labs:**  
+- Conducting Threat Intelligence Research  
+- Security Event Log Analysis with SIEM  
+- Vulnerability Scanning & Risk Assessments  
+
+📜 **Certifications & Training:**  
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+  
+    
+
+🚀 **Next Steps:**  
+- Build a portfolio showcasing security projects  
+- Develop foundational scripting skills in Python & Bash  
+- Gain hands-on experience in cybersecurity labs  
+
+📫 **Connect with me:**  
+🔗 GitHub: [github.com/svic32](https://github.com/svic32)  
+💼 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/samantha-victor-profile)  
+```
